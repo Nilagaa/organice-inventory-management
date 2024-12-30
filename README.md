@@ -56,6 +56,16 @@ Organice is a PHP-based Inventory Management System built for small-scale busine
 
 ---
 
+## Screenshots
+
+### Login Page
+![Login Page](assets/images/login-page.png)
+
+### Products List
+![Products List](assets/images/products-list.png)
+
+---
+
 ## Notes
 - To add new users, update the `ims_user` table in PHPMyAdmin.
 - The system does not include a tax or registration module.
