@@ -68,4 +68,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## Author
-[Your Name](https://github.com/nilagaa)
+[Nilagaa](https://github.com/nilagaa)
